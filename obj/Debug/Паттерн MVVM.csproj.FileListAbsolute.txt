@@ -1,0 +1,19 @@
+D:\Ну типа\3 курс\Лапухина\МДК 11.01\Паттерн MVVM\bin\Debug\Паттерн MVVM.exe.config
+D:\Ну типа\3 курс\Лапухина\МДК 11.01\Паттерн MVVM\bin\Debug\Паттерн MVVM.exe
+D:\Ну типа\3 курс\Лапухина\МДК 11.01\Паттерн MVVM\bin\Debug\Паттерн MVVM.pdb
+D:\Ну типа\3 курс\Лапухина\МДК 11.01\Паттерн MVVM\obj\Debug\Паттерн MVVM.csproj.AssemblyReference.cache
+D:\Ну типа\3 курс\Лапухина\МДК 11.01\Паттерн MVVM\obj\Debug\MainWindow.g.cs
+D:\Ну типа\3 курс\Лапухина\МДК 11.01\Паттерн MVVM\obj\Debug\App.g.cs
+D:\Ну типа\3 курс\Лапухина\МДК 11.01\Паттерн MVVM\obj\Debug\Паттерн MVVM_MarkupCompile.cache
+D:\Ну типа\3 курс\Лапухина\МДК 11.01\Паттерн MVVM\obj\Debug\Паттерн MVVM_MarkupCompile.lref
+D:\Ну типа\3 курс\Лапухина\МДК 11.01\Паттерн MVVM\obj\Debug\MainWindow.baml
+D:\Ну типа\3 курс\Лапухина\МДК 11.01\Паттерн MVVM\obj\Debug\Паттерн MVVM.g.resources
+D:\Ну типа\3 курс\Лапухина\МДК 11.01\Паттерн MVVM\obj\Debug\Паттерн_MVVM.Properties.Resources.resources
+D:\Ну типа\3 курс\Лапухина\МДК 11.01\Паттерн MVVM\obj\Debug\Паттерн MVVM.csproj.GenerateResource.cache
+D:\Ну типа\3 курс\Лапухина\МДК 11.01\Паттерн MVVM\obj\Debug\Паттерн MVVM.csproj.CoreCompileInputs.cache
+D:\Ну типа\3 курс\Лапухина\МДК 11.01\Паттерн MVVM\obj\Debug\Паттерн MVVM.exe
+D:\Ну типа\3 курс\Лапухина\МДК 11.01\Паттерн MVVM\obj\Debug\Паттерн MVVM.pdb
+D:\Ну типа\3 курс\Лапухина\МДК 11.01\Паттерн MVVM\bin\Debug\Microsoft.Xaml.Behaviors.dll
+D:\Ну типа\3 курс\Лапухина\МДК 11.01\Паттерн MVVM\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+D:\Ну типа\3 курс\Лапухина\МДК 11.01\Паттерн MVVM\bin\Debug\Microsoft.Xaml.Behaviors.xml
+D:\Ну типа\3 курс\Лапухина\МДК 11.01\Паттерн MVVM\obj\Debug\Паттерн MVVM.csproj.CopyComplete
